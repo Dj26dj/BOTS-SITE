@@ -35,12 +35,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
-## 4. BELTAH MD (Friend bot. No ban on heroku)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/beltah-md&template=https://github.com/Beltahmd/beltah-md.git)
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ##  4. DEVELOPER INFO
@@ -51,7 +45,7 @@
 
 ##  5. SESSION SITE
 
-<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/SESSION-SITE -h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Frecyber/FREDITECH-SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/SESSION-SITE -h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # Star ✨ the repo if you don't mind 
 
