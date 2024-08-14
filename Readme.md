@@ -13,11 +13,7 @@
 
 ##  1. LUCKY🍀 MD  (New version, No heroku ban)[100% save on heroku]
 
-## 2.Fork Repo
-
 <a href="https://github.com/Fred1e/LUCKY_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-## 2. Deploy here
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Lucky_Md/tree/main)
 
@@ -25,11 +21,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ##  2. FRECYBER MD (Not Save On heroku)
-## 2. Fork And Star Repo
 
 <a href="https://github.com/Frecyber/Frecyber-md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-## 2. Deploy Here
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=hhttps://github.com/Frecyber/Frecyber-md)
 
@@ -39,11 +32,7 @@
 
 ##  3. FREDI MD (Not Save On Heroku)
 
-## 1. Fork And Star Repo
-
 <a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-## 2. Deploy Here
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-plugin/tree/main)
 
